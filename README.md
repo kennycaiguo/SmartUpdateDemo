@@ -31,7 +31,7 @@
 	
 ### 2. 在Module的build.gradle添加依赖（如下图）
 
-    compile 'com.github.jiyouliang2:SmartUpdateDemo:1.0.1'
+    implementation 'com.github.jiyouliang2:SmartUpdateDemo:1.0.1' (compile 在安卓已经过时了！！！)
 
 
 ![](build_module.png)
